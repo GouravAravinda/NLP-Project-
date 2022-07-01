@@ -1,0 +1,8 @@
+Abstract 6-8 lines
+Introduction 3 to 4 paragraphs
+Literature Survey (Have to make references to the papers we referred using details in our table)
+Write the paper in third person referring to the project not to ourselves. This is 1 page. 
+Motivation 1 paragraph 
+Proposed Methodology Detailed.  2 to 3 pages 
+Experimental Results Accuracy and Comparisons 2 paragraphs
+References
